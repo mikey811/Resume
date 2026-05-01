@@ -1,0 +1,26 @@
+DataCamp CPE Exam Completed: Understanding Artificial Intelligence
+
+Exam Details:
+- Course: Understanding Artificial Intelligence
+- Type: CPE (Continuing Professional Education) Exam
+- Date Completed: May 1, 2026
+- Score: 200/200 (Required: 140)
+- CPE Credits Earned: 2.8
+- Status: PASSED
+
+Exam Topics Covered:
+- AI fundamentals and sensory information gathering
+- Environmental challenges of AI technology
+- Computer vision and motion analysis
+- Data acquisition and datasets for AI
+- Feature importance and model interpretability
+- Organizational challenges in AI implementation
+- Performance metrics for search/recommendation systems
+- Classification model evaluation metrics
+- AI's economic impact across various sectors
+- Machine learning problem types (regression, classification)
+- Workforce implications of AI automation
+
+Total Questions: 15 (Multiple Choice)
+Time Allowed: ~45 minutes
+Result: Successfully completed with perfect score
